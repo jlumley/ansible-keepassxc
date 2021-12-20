@@ -1,2 +1,2 @@
 # ansible-keepassxc
-Ansibe role to intereact with KeepassXC 
+Ansibe role to read entries from KeepassXC 
